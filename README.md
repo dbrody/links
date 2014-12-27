@@ -17,4 +17,4 @@ List of links I find interesting
 
 + [Covariance Matrix Adaptation](http://en.wikipedia.org/wiki/CMA-ES)
 
-## [papers](Papers.md)
+## [Papers](papers.md)
